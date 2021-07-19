@@ -4,20 +4,20 @@ Src-GPIO/Gpio_Ctrl.obj: ../Src-GPIO/Gpio_Ctrl.c
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_common/include/F28x_Project.h
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_common/include/F2837xD_Cla_typedefs.h
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_headers/include/F2837xD_Device.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/assert.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_ti_config.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/linkage.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdarg.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_types.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/cdefs.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_types.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdbool.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stddef.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdint.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_stdint40.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/stdint.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_stdint.h
-Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_stdint.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/assert.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_ti_config.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/linkage.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdarg.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_types.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/cdefs.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_types.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdbool.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stddef.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdint.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_stdint40.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/stdint.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_stdint.h
+Src-GPIO/Gpio_Ctrl.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_stdint.h
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_headers/include/F2837xD_Adc.h
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_headers/include/F2837xD_AnalogSubsys.h
 Src-GPIO/Gpio_Ctrl.obj: C:/tools/F2837xD_headers/include/F2837xD_Cla.h
@@ -70,20 +70,20 @@ Src-GPIO/Gpio_Ctrl.obj: ../Src-GPIO/../define.h
 C:/tools/F2837xD_common/include/F28x_Project.h: 
 C:/tools/F2837xD_common/include/F2837xD_Cla_typedefs.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Device.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/assert.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_ti_config.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/linkage.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdarg.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_types.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/cdefs.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_types.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdbool.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stddef.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_stdint40.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/assert.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_ti_config.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/linkage.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdarg.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/cdefs.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdbool.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stddef.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_stdint40.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_stdint.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Adc.h: 
 C:/tools/F2837xD_headers/include/F2837xD_AnalogSubsys.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Cla.h: 

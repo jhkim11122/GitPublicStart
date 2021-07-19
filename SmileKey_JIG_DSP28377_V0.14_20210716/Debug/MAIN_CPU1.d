@@ -4,20 +4,20 @@ MAIN_CPU1.obj: ../MAIN_CPU1.c
 MAIN_CPU1.obj: C:/tools/F2837xD_common/include/F28x_Project.h
 MAIN_CPU1.obj: C:/tools/F2837xD_common/include/F2837xD_Cla_typedefs.h
 MAIN_CPU1.obj: C:/tools/F2837xD_headers/include/F2837xD_Device.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/assert.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_ti_config.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/linkage.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdarg.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_types.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/cdefs.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_types.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdbool.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stddef.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdint.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_stdint40.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/stdint.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_stdint.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_stdint.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/assert.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_ti_config.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/linkage.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdarg.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_types.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/cdefs.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_types.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdbool.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stddef.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdint.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_stdint40.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/stdint.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_stdint.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_stdint.h
 MAIN_CPU1.obj: C:/tools/F2837xD_headers/include/F2837xD_Adc.h
 MAIN_CPU1.obj: C:/tools/F2837xD_headers/include/F2837xD_AnalogSubsys.h
 MAIN_CPU1.obj: C:/tools/F2837xD_headers/include/F2837xD_Cla.h
@@ -66,10 +66,10 @@ MAIN_CPU1.obj: C:/tools/F2837xD_common/include/F2837xD_Pbist_defines.h
 MAIN_CPU1.obj: C:/tools/F2837xD_common/include/F2837xD_Upp_defines.h
 MAIN_CPU1.obj: ../define.h
 MAIN_CPU1.obj: ../eeprom.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/string.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/math.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_defs.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_limits.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/string.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/math.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_defs.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_limits.h
 MAIN_CPU1.obj: C:/tools/F2837xD_common/inc/hw_types.h
 MAIN_CPU1.obj: C:/tools/F2837xD_common/inc/hw_memmap.h
 MAIN_CPU1.obj: C:/tools/F2837xD_common/include/F2837xD_Ipc_drivers.h
@@ -79,29 +79,29 @@ MAIN_CPU1.obj: ../Main_Func.h
 MAIN_CPU1.obj: ../DualCore_Select.h
 MAIN_CPU1.obj: ../Src-EPWM/EpwmRegs_Defs.h
 MAIN_CPU1.obj: ../Src-Capture/ECap_Config.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdio.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/time.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/abi_prefix.h
-MAIN_CPU1.obj: C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/xlocale/_time.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdio.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/time.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/abi_prefix.h
+MAIN_CPU1.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/xlocale/_time.h
 
 ../MAIN_CPU1.c: 
 C:/tools/F2837xD_common/include/F28x_Project.h: 
 C:/tools/F2837xD_common/include/F2837xD_Cla_typedefs.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Device.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/assert.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_ti_config.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/linkage.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdarg.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_types.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/cdefs.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_types.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdbool.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stddef.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_stdint40.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_stdint.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/sys/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/assert.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_ti_config.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/linkage.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdarg.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/cdefs.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_types.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdbool.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stddef.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_stdint40.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_stdint.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/sys/_stdint.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Adc.h: 
 C:/tools/F2837xD_headers/include/F2837xD_AnalogSubsys.h: 
 C:/tools/F2837xD_headers/include/F2837xD_Cla.h: 
@@ -150,10 +150,10 @@ C:/tools/F2837xD_common/include/F2837xD_Pbist_defines.h:
 C:/tools/F2837xD_common/include/F2837xD_Upp_defines.h: 
 ../define.h: 
 ../eeprom.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/string.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/math.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/_defs.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/machine/_limits.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/string.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/math.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/_defs.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/machine/_limits.h: 
 C:/tools/F2837xD_common/inc/hw_types.h: 
 C:/tools/F2837xD_common/inc/hw_memmap.h: 
 C:/tools/F2837xD_common/include/F2837xD_Ipc_drivers.h: 
@@ -163,7 +163,7 @@ C:/tools/F2837xD_common/include/F2837xD_Ipc_drivers.h:
 ../DualCore_Select.h: 
 ../Src-EPWM/EpwmRegs_Defs.h: 
 ../Src-Capture/ECap_Config.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/stdio.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/time.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/abi_prefix.h: 
-C:/ti/ccs1010/ccs/tools/compiler/ti-cgt-c2000_20.2.4.LTS/include/xlocale/_time.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/stdio.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/time.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/abi_prefix.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-c2000_20.2.2.LTS/include/xlocale/_time.h: 
